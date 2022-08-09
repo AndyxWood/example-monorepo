@@ -1,0 +1,9 @@
+{
+  "name": "cyclops",
+  "private": true,
+  "workspaces": ["looking-glass/**"],
+  "scripts": {
+    "start-verifier-portal": "yarn workspace verifier-portal start",
+    "start-frontend": "yarn workspace frontend dev"
+  }
+}
