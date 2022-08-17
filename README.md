@@ -1,4 +1,4 @@
-# example-monorepo
+# Example Monorepo Setup
 Example Monorepo with shared components using a NextJS frontend and a Create React App frontend. 
 Tested different tooling to achieve successful builds. 
 
